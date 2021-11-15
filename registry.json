@@ -1,5 +1,6 @@
 {
-    [{
+    [
+    {
     "name": "mvk.io server 1",
     "url": "mtl1.mvk.io"},
     {
@@ -8,4 +9,5 @@
     {
     "name": "mvk.io server 3",
     "url": "mtl3.mvk.io"}
+    ]
 }
