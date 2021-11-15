@@ -1,4 +1,11 @@
 {
-    "name": "mvk.io",
-    "url": "mtl.mvk.io"
+    [{
+    "name": "mvk.io server 1",
+    "url": "mtl1.mvk.io"},
+    {
+    "name": "mvk.io server 2",
+    "url": "mtl2.mvk.io"}
+    {
+    "name": "mvk.io server 3",
+    "url": "mtl3.mvk.io"}
 }
